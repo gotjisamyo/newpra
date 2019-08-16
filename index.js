@@ -1,7 +1,7 @@
 //Get discord.js
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-
+coust token ='process.env.token';
 
 const gacha = require('./gacha');
 
@@ -35,4 +35,4 @@ bot.on('message', message => {
   }
 });
 
-bot.login('NjEwODQ5MDI0OTE1ODAwMDY1.XVY15w.ZEpA9gErLs9FEDh1w8-vMWh9_Tk');
+bot.login('token');
