@@ -35,4 +35,4 @@ bot.on('message', message => {
   }
 });
 
-bot.login('NjEwODQ5MDI0OTE1ODAwMDY1.XVLVWA.0HRn3M7zSpKw-GymzTx3rFsbEe8');
+bot.login('NjEwODQ5MDI0OTE1ODAwMDY1.XVYaQQ.MVDz4GhT3MIGHRmly9K7wRB2et0');
