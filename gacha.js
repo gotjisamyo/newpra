@@ -89,6 +89,8 @@ var pull3 = function() {
     }
 
     if(result == 3) {
+
+       
         return '3 ★ สามดาวชนะ!'
     }
 
@@ -104,6 +106,7 @@ var pull2 = function() {
     }
 
     if(result == 2) {
+       
         return '2 ★ สองดาวชนะ!'
     }
 
